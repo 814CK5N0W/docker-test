@@ -1,1 +1,1 @@
-FROM --platform=arm64 psql:latest
+FROM --platform=arm64 node:latest
